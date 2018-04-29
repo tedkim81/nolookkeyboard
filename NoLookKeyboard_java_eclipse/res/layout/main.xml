@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#fafafa"
+	>
+	<!-- 타이틀바 {{ -->
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/bg_titlebar"
+		android:gravity="center_vertical"
+		android:layout_marginBottom="5dip"
+		>
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="10dip"
+			android:text="@string/app_name"
+			android:textSize="15sp"
+			android:textStyle="bold"
+			android:textColor="#ffffff"
+			/>
+	</LinearLayout>
+	<!-- }} 타이틀바 -->
+	
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		>
+		<!-- 전체영역 {{ -->
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			>
+			<TextView
+				android:id="@+id/txt_about_button"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="5dip"
+				android:textColor="#333333"
+				/>
+				
+			<Button
+				android:id="@+id/btn_change_settings"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				/>
+			<EditText
+				android:id="@+id/input_test"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:hint="@string/txt_hint_test"
+				android:textSize="12sp"
+				android:visibility="gone"
+				/>
+				
+			<!-- 노룩 키보드 사용하기 {{ -->
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:padding="5dip"
+				android:text="@string/title_info"
+				android:textColor="#ffffff"
+				android:background="#6c737d"
+				/>
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:padding="5dip"
+				>
+				<include layout="@layout/guide_content" />
+			</LinearLayout>
+			<!-- }} 노룩 사용하기 -->
+		</LinearLayout>
+		<!-- 전체영역 -->
+	</ScrollView>
+	
+</LinearLayout>

@@ -1,0 +1,180 @@
+com.teuskim.nlkeyboard.HangulHandler:
+    private static final int JASO_START_INDEX
+    public static final int HANGUL_START_INDEX
+    private static final int JAUM_SIZE
+    private static final int JAUM_FULL_SIZE
+    public static final int CUSTOM_SPACE
+    public static final int CUSTOM_ENTER
+    public static final int CUSTOM_BACKSPACE
+    107:107:public java.lang.String getHangulString()
+    169:171:public void handleEnter()
+    203:203:public int getKeyIntFromKeyCode(int)
+com.teuskim.nlkeyboard.Log:
+    private static final boolean IS_LOGGING
+    17:17:public static void d(java.lang.String,java.lang.String,java.lang.Throwable)
+    20:21:public static void e(java.lang.String,java.lang.String)
+    24:25:public static void e(java.lang.String,java.lang.String,java.lang.Throwable)
+    31:31:public static void i(java.lang.String,java.lang.String)
+    37:37:public static void i(java.lang.String,java.lang.String,java.lang.Throwable)
+    43:43:public static void v(java.lang.String,java.lang.String)
+    49:49:public static void v(java.lang.String,java.lang.String,java.lang.Throwable)
+    55:55:public static void w(java.lang.String,java.lang.String)
+    61:61:public static void w(java.lang.String,java.lang.String,java.lang.Throwable)
+com.teuskim.nlkeyboard.MainActivity:
+    private static final int CURR_STATE_UNCHECKED
+    private static final int CURR_STATE_UNSELECTED
+    private static final int CURR_STATE_USE
+com.teuskim.nlkeyboard.NLKeyboard:
+    private static final java.lang.String TAG_KEYBOARD
+    private static final java.lang.String TAG_KEYSET
+    private static final java.lang.String TAG_KEY
+com.teuskim.nlkeyboard.NLKeyboardDb:
+    private static final java.lang.String DATABASE_NAME
+    private static final int DATABASE_VERSION
+    private static final int KEYBOARD_TYPE_ENGLISH
+    private static final int KEYBOARD_TYPE_HANGUL
+    private static final int KEYBOARD_TYPE_NUMBERS
+    private static final int KEYBOARD_TYPE_SYMBOLS
+    public static final int WEIGHT_SUM
+    public static final int WEIGHT_INIT_NEXT
+    public static final int WEIGHT_INIT_TOTAL
+    public static final int WEIGHT_INIT_N
+    public static final int WEIGHT_INIT_XXX
+    public static final int AVAILABLE_PERIOD_INIT
+    66:67:public void close()
+    120:132:public boolean useHistory()
+    141:144:public boolean updateUseHistory(boolean)
+    404:421:public boolean insertORupdateHistory(int,java.lang.String,java.lang.String)
+    425:439:private int getHistoryUseCnt(int)
+    448:462:public int getHistoryId(java.lang.String)
+    472:478:public android.database.Cursor getHistoryList(java.lang.String,int)
+    486:494:public int getHistoryCount()
+    502:502:public boolean deleteHistory()
+    946:978:public java.util.List getWordList()
+    986:1004:public java.util.List getNextWordGroupList()
+com.teuskim.nlkeyboard.NLKeyboardDb$CustomKeyset:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String _ID
+    public static final java.lang.String NAME
+    public static final java.lang.String SHOW_4
+    public static final java.lang.String SHOW_8
+    public static final int SHOW_NONE
+    public static final int SHOW_ALL
+    public static final int SHOW_LEFT
+    public static final int SHOW_RIGHT
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardDb$CustomKeysetData:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String _ID
+    public static final java.lang.String CUSTOM_KEYSET_ID
+    public static final java.lang.String KEYSET_NUMBER
+    public static final java.lang.String DATA
+    public static final int KEYSET_NUMBER_LEFT_TOP
+    public static final int KEYSET_NUMBER_MID_TOP
+    public static final int KEYSET_NUMBER_RIGHT_TOP
+    public static final int KEYSET_NUMBER_LEFT_MID
+    public static final int KEYSET_NUMBER_RIGHT_MID
+    public static final int KEYSET_NUMBER_LEFT_BOT
+    public static final int KEYSET_NUMBER_MID_BOT
+    public static final int KEYSET_NUMBER_RIGHT_BOT
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardDb$DbOpenHelper:
+    1014:1015:public NLKeyboardDb$DbOpenHelper(android.content.Context)
+com.teuskim.nlkeyboard.NLKeyboardDb$History
+com.teuskim.nlkeyboard.NLKeyboardDb$KeySet:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String _ID
+    public static final java.lang.String TYPE
+    public static final java.lang.String SHOW_YN
+    public static final java.lang.String SIDE
+    public static final int SIDE_ALL
+    public static final int SIDE_LEFT
+    public static final int SIDE_RIGHT
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardDb$MyInfo:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String _ID
+    public static final java.lang.String DIRECTION
+    public static final java.lang.String USE_HISTORY
+    public static final java.lang.String USE_CNT_TOTAL_WEIGHT
+    public static final java.lang.String USE_CNT_N_WEIGHT
+    public static final java.lang.String USE_CNT_XXX_WEIGHT
+    public static final java.lang.String AVAILABLE_PERIOD
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardDb$NextWordGroup:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String WORD
+    public static final java.lang.String NEXT_WORD
+    public static final java.lang.String USE_CNT
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardDb$Word:
+    public static final java.lang.String TABLE_NAME
+    public static final java.lang.String WORD
+    public static final java.lang.String COMPOSITION
+    public static final java.lang.String USE_CNT_TOTAL
+    public static final java.lang.String USE_CNT_0
+    public static final java.lang.String USE_CNT_4
+    public static final java.lang.String USE_CNT_8
+    public static final java.lang.String USE_CNT_12
+    public static final java.lang.String USE_CNT_16
+    public static final java.lang.String USE_CNT_20
+    public static final java.lang.String USE_CNT_NORMAL
+    public static final java.lang.String USE_CNT_EMAIL_ADDRESS
+    public static final java.lang.String USE_CNT_EMAIL_SUBJECT
+    public static final java.lang.String USE_CNT_URI
+    public static final java.lang.String USE_CNT_PERSON_NAME
+    public static final java.lang.String USE_CNT_POSTAL_ADDRESS
+    public static final java.lang.String USE_CNT_NUMBER
+    public static final java.lang.String UPD_DT
+    public static final java.lang.String CRT_DT
+    public static final java.lang.String WORD_ID
+    public static final java.lang.String CREATE
+com.teuskim.nlkeyboard.NLKeyboardService:
+    private static final java.lang.String TAG
+    public static final int KEY_DELETE
+    private static final int KEY_SHIFT
+    private static final int KEY_ENTER
+    private static final int IDX_LEFT_TOP
+    private static final int IDX_MID_TOP
+    private static final int IDX_RIGHT_TOP
+    private static final int IDX_LEFT_MID
+    private static final int IDX_RIGHT_MID
+    private static final int IDX_LEFT_BOT
+    private static final int IDX_MID_BOT
+    private static final int IDX_RIGHT_BOT
+    private static final int TYPE_CHAR
+    private static final int TYPE_SPACE
+    private static final int TYPE_ETC
+    private static final double AFFINITY_WEIGHT
+    private static final int LAST_INPUT_SPACE
+    private static final int LAST_INPUT_BACKSPACE
+    private static final int LAST_INPUT_ETC
+com.teuskim.nlkeyboard.NLPreference:
+    private static final java.lang.String KEY_DID_READ_GUIDE
+    private static final java.lang.String KEY_KEYBOARD_POS_LEFT
+    private static final java.lang.String KEY_KEYBOARD_POS_RIGHT
+    private static final java.lang.String KEY_KEYBOARD_POS_ALL
+    private static final java.lang.String KEY_VIBRATE
+    private static final java.lang.String KEY_DUPCHOSUNG
+    private static final java.lang.String KEY_SHIFT_REMAIN
+    25:25:public boolean didReadGuide()
+com.teuskim.nlkeyboard.R
+com.teuskim.nlkeyboard.R$array
+com.teuskim.nlkeyboard.R$attr
+com.teuskim.nlkeyboard.R$drawable
+com.teuskim.nlkeyboard.R$id
+com.teuskim.nlkeyboard.R$layout
+com.teuskim.nlkeyboard.R$string
+com.teuskim.nlkeyboard.R$xml
+com.teuskim.nlkeyboard.RecommendWord:
+    38:41:public void generateDiffTime(long)
+com.teuskim.nlkeyboard.RegisterCustomActivity:
+    public static final int LEFT_TOP
+    public static final int MID_TOP
+    public static final int RIGHT_TOP
+    public static final int LEFT_MID
+    public static final int RIGHT_MID
+    public static final int LEFT_BOT
+    public static final int MID_BOT
+    public static final int RIGHT_BOT
+    public static final java.lang.String ACTION_SAVE_COMPLETE

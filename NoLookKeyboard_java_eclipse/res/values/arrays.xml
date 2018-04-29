@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="custom_names">
+		<item>Ex1 Symbols</item>
+		<item>Ex2 Emoticons</item>
+		<item>Ex3 Hangul 2nd</item>
+	</string-array>
+	
+	<string-array name="ex1_symbols">
+		<item>※</item>
+		<item>☆</item>
+		<item>★</item>
+		<item>○</item>
+		<item>●</item>
+		<item>◎</item>
+		<item>◇</item>
+		<item>◆</item>
+		<item>□</item>
+		<item>■</item>
+		<item>△</item>
+		<item>▲</item>
+		<item>▽</item>
+		<item>▼</item>
+		<item>→</item>
+		<item>←</item>
+		<item>↑</item>
+		<item>↓</item>
+		<item>↔</item>
+		<item>◈</item>
+		<item>▣</item>
+		<item>◐</item>
+		<item>◑</item>
+		<item>♨</item>
+		<item>☎</item>
+		<item>☜</item>
+		<item>☞</item>
+		<item>¶</item>
+		<item>♥</item>
+		<item>♣</item>
+		<item>♦</item>
+	</string-array>
+	
+	<string-array name="ex2_emoticons">
+		<item><![CDATA[_(≥∇≤)ノミ☆]]></item>
+		<item><![CDATA[＼(ご▽ご*)/]]></item>
+		<item><![CDATA[(*￣▽￣)/ ))]]></item>
+		<item><![CDATA[ζ(￣～￣)η]]></item>
+		<item><![CDATA[{{(>_<)}}]]></item>
+		<item><![CDATA[(º д º ;;)]]></item>
+		<item><![CDATA[( ノ` 皿´)ノ]]></item>
+		<item><![CDATA[( ￣ ∇￣)づ ~]]></item>
+		<item><![CDATA[Q(^o^Q)]]></item>
+		<item><![CDATA[(g-.-)9]]></item>
+		<item><![CDATA[s(￣~￣)z]]></item>
+		<item><![CDATA[a(^.^a)]]></item>
+		<item><![CDATA[( ￣ υ￣)]]></item>
+		<item><![CDATA[( `∇´)∠)))]]></item>
+		<item><![CDATA[(*｀д´)_b]]></item>
+		<item><![CDATA[:-#]]></item>
+		<item><![CDATA[:)]]></item>
+		<item><![CDATA[[:)]]></item>
+		<item><![CDATA[:-P]]></item>
+		<item><![CDATA[>;-(]]></item>
+		<item><![CDATA[ㄴ(-_-;;)ㄱ=3=3=3]]></item>
+		<item><![CDATA[＼(>.<;)/]]></item>
+		<item><![CDATA[へ(￣∇￣へ)]]></item>
+		<item><![CDATA[^ε^]]></item>
+		<item><![CDATA[*♥o♥*]]></item>
+		<item><![CDATA[OTL]]></item>
+		<item><![CDATA[Y.Y]]></item>
+		<item><![CDATA[∋.∈]]></item>
+	</string-array>
+	
+	<string-array name="ex3_hangul_2nd">
+		<item>ㅅ</item>
+		<item>ㅈ</item>
+		<item>ㅊ</item>
+		<item>.</item>
+		<item>ㅜ</item>
+		<item>ㅟ</item>
+		<item>ㅎ</item>
+		<item>ㅞ</item>
+		<item>ㅁ</item>
+		<item>ㅂ</item>
+		<item>ㅍ</item>
+		<item>~</item>
+		<item>ㅏ</item>
+		<item>ㅣ</item>
+		<item>ㅐ</item>
+		<item>ㅒ</item>
+		<item>ㅓ</item>
+		<item>ㅡ</item>
+		<item>ㅔ</item>
+		<item>ㅖ</item>
+		<item>ㄷ</item>
+		<item>ㄹ</item>
+		<item>ㅌ</item>
+		<item>^^</item>
+		<item>ㅗ</item>
+		<item>ㅚ</item>
+		<item>ㅇ</item>
+		<item>ㅙ</item>
+		<item>ㄱ</item>
+		<item>ㄴ</item>
+		<item>ㅋ</item>
+	</string-array>
+</resources>

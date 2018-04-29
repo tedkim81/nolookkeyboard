@@ -1,0 +1,17 @@
+.DS_Store
+
+/NoLookKeyboard_kotlin/.gradle
+/NoLookKeyboard_kotlin/local.properties
+/NoLookKeyboard_kotlin/.idea/workspace.xml
+/NoLookKeyboard_kotlin/.idea/libraries
+/NoLookKeyboard_kotlin/.DS_Store
+/NoLookKeyboard_kotlin/build
+/NoLookKeyboard_kotlin/takeFive/build
+/NoLookKeyboard_kotlin/import-summary.txt
+
+/NoLookKeyboard_java_eclipse/.settings
+/NoLookKeyboard_java_eclipse/bin
+/NoLookKeyboard_java_eclipse/gen
+/NoLookKeyboard_java_eclipse/.classpath
+/NoLookKeyboard_java_eclipse/.project
+/NoLookKeyboard_java_eclipse/local.properties

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* 
+**
+** Copyright 2008, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+-->
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#fafafa"
+	>
+	<!-- 타이틀바 {{ -->
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/bg_titlebar"
+		android:gravity="center_vertical"
+		>
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:layout_marginLeft="10dip"
+			android:text="@string/title_setting"
+			android:textSize="18sp"
+			android:textStyle="bold"
+			android:textColor="#ffffff"
+			/>
+		<Button
+			android:id="@+id/btn_guide"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="2dip"
+			android:text="@string/btn_info"
+			android:textColor="#333333"
+			/>
+		<Button
+			android:id="@+id/btn_close"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginRight="5dip"
+			android:layout_marginTop="2dip"
+			android:text="@string/btn_close"
+			android:textColor="#333333"
+			/>
+	</LinearLayout>
+	<!-- }} 타이틀바 -->
+	
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		>
+		<!-- 전체영역 {{ -->
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			>
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:padding="5dip"
+				android:text="@string/subtitle_direction"
+				android:textColor="#ffffff"
+				android:background="#6c737d"
+				/>
+				
+			<!-- 방향수 변경 레이아웃 {{ -->
+			<RadioGroup
+				android:id="@+id/group_direction"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				android:orientation="horizontal"
+				>
+				<RadioButton
+					android:id="@+id/btn_direction_4"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/txt_direction_4"
+					android:textColor="#333333"
+					/>
+				<RadioButton
+					android:id="@+id/btn_direction_8"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="20dip"
+					android:text="@string/txt_direction_8"
+					android:textColor="#333333"
+					/>
+			</RadioGroup>
+			<!-- }} 방향수 변경 레이아웃 -->
+			
+			<!-- 키보드셋 목록 제목 {{ -->
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				>
+				<TextView
+					android:id="@+id/list_title_left"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:padding="5dip"
+					android:text="@string/subtitle_keyboardset_left"
+					android:textColor="#ffffff"
+					android:background="#6c737d"
+					/>
+				<TextView
+					android:id="@+id/list_title_right"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:padding="5dip"
+					android:text="@string/subtitle_keyboardset_right"
+					android:textColor="#ffffff"
+					android:background="#6c737d"
+					/>
+			</LinearLayout>
+			<!-- }} 키보드셋 목록 제목 -->
+			
+			<!-- 키보드셋 목록 레이아웃 {{ -->
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				>
+				<!-- 좌측키보드셋 목록 {{ -->
+				<LinearLayout
+					android:id="@+id/list_left"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:orientation="vertical"
+					/>
+				<!-- }} 좌측키보드셋 목록 -->
+				
+				<!-- 우측키보드셋 목록 ( 4방향일때는 gone ) {{ -->
+				<LinearLayout
+					android:id="@+id/list_right"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:orientation="vertical"
+					/>
+				<!-- }} 우측키보드셋 목록 ( 4방향일때는 gone ) -->
+			</LinearLayout>
+			<!-- }} 키보드셋 목록 레이아웃 -->
+			
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="5dip"
+				android:padding="5dip"
+				android:text="@string/subtitle_custom_keyboard"
+				android:textColor="#ffffff"
+				android:background="#6c737d"
+				/>
+				
+			<!-- 사용자 정의 키보드 목록 {{ -->
+			<LinearLayout
+				android:id="@+id/list_custom"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				/>
+			<!-- }} 사용자 정의 키보드 목록 -->
+			
+			<!-- 사용자 정의 키보드 추가 {{ -->
+			<Button
+				android:id="@+id/btn_add_custom"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="2dip"
+				android:layout_marginBottom="5dip"
+				android:text="@string/btn_add_custom_keyboard"
+				/>
+			<!-- }} 사용자 정의 키보드 추가 -->
+			
+			<!-- 기타 설정 {{ -->
+			<TextView
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:padding="5dip"
+				android:text="@string/subtitle_etc"
+				android:textColor="#ffffff"
+				android:background="#6c737d"
+				/>
+			<CheckBox
+				android:id="@+id/checkbox_vibrate"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				android:text="@string/txt_vibrate"
+				android:textColor="#333333"
+				/>
+			<CheckBox
+				android:id="@+id/checkbox_dupchosung"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				android:text="@string/txt_dupchosung"
+				android:textColor="#333333"
+				/>
+			<CheckBox
+				android:id="@+id/checkbox_shift"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dip"
+				android:text="@string/txt_shift_remain"
+				android:textColor="#333333"
+				/>
+			
+		</LinearLayout>
+		<!-- }} 전체영역 -->
+	</ScrollView>
+			
+</LinearLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">NoLook Keyboard</string>
+	<string name="txt_promote_history">Use the word history feature.</string>
+	<string name="txt_read_guide">Read the instruction.</string>
+	<string name="alert">Alert</string>
+	
+	<string name="txt_hint_test">Input Test</string>
+	<string name="title_go_settings">NoLook Keyboard Settings</string>
+	<string name="txt_change_keyboard"><![CDATA[ You don\'t use NoLook Keyboard now.\nYou can select the NoLook Keyboard by button below. ]]></string>
+	<string name="title_change_keyboard">Change Keyboard</string>
+	<string name="txt_go_android_settings"><![CDATA[ NoLook Keyboard is disabled now.\nIn Android Settings > Language&keyboard, you can check the NoLook Keyboard.\nYou can move directly by button below. ]]></string>
+	<string name="title_go_android_settings">Go to enable the NoLook Keyboard</string>
+	<string name="btn_custom_recommend">Recommend Keymap</string>
+	<string name="btn_custom_reset">Reset</string>
+	
+	<string name="btn_repeat">REPEAT</string>
+	<string name="btn_setting">SETTING</string>
+	<string name="btn_info">INSTRUCTION</string>
+	<string name="btn_close">CLOSE</string>
+	<string name="btn_delete_history">Delete word history</string>
+	<string name="btn_edit">MODIFY</string>
+	<string name="btn_delete">DELETE</string>
+	<string name="btn_add_custom_keyboard">Add the custom keyboard</string>
+	<string name="btn_save">SAVE</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_special">SPECIAL</string>
+	<string name="btn_cancel">CANCEL</string>
+	<string name="btn_space">SPACE</string>
+	<string name="btn_commit">COMMIT</string>
+	<string name="btn_backspace">BACK</string>
+	
+	<string name="title_setting">Keyboard Settings</string>	
+	<string name="subtitle_history">Word History Settings</string>
+	<string name="txt_history_checkbox">Save recent word that you input.</string>
+	<string name="txt_history_alert">If you use this feature, NoLook Keyboard save the word that you input. Because it includes password, please be careful.</string>
+	<string name="toast_delete_history_ok">Delete word history successfully.</string>
+	<string name="toast_delete_history_none">No word history.</string>
+	
+	<string name="subtitle_direction">Change Keyboard Directions</string>
+	<string name="txt_direction_4">4-direction</string>
+	<string name="txt_direction_8">8-direction</string>
+	
+	<string name="subtitle_keyboardset_all">Keyboard Set</string>
+	<string name="subtitle_keyboardset_left">Left Keyboard Set</string>
+	<string name="subtitle_keyboardset_right">Right Keyboard Set</string>
+	<string name="txt_english">English</string>
+	<string name="txt_hangul">Hangul</string>
+	<string name="txt_numbers">Numbers</string>
+	<string name="txt_symbols">Symbols</string>
+	
+	<string name="subtitle_etc">Other Settings</string>
+	<string name="txt_vibrate">Effect of vibration</string>
+	<string name="txt_dupchosung">ㄱ+ㄱ=ㄲ, ㄷ+ㄷ=ㄸ,.. in Hangul</string>
+	<string name="txt_shift_remain">Hold shift key</string>
+	
+	<string name="subtitle_custom_keyboard">Custom Keyboards</string>
+	<string name="txt_left_right">Left-Right</string>
+	<string name="txt_left">Left</string>
+	<string name="txt_right">Right</string>
+	<string name="alert_delete">Would you really delete?</string>
+	
+	<string name="title_custom_keyboard">Add/Modify Custom Keyboard</string>
+	<string name="txt_input_title">Input Title</string>
+	<string name="toast_input_title">Please input title.</string>
+	<string name="toast_save_ok">save done successfully</string>
+	<string name="toast_save_fail">fail to save</string>
+	<string name="txt_info_custom_keyboard">Touch key-set area and input word. After you input all, click save button.\nCheck key-map below.</string>
+	
+	<string name="txt_backspacekey">backspace</string>
+	<string name="txt_spacebar">spacebar</string>
+	<string name="txt_enterkey">enter</string>
+	
+	<string name="subtitle_custom_keyboard_keymap">Keymap - map of keyset and word</string>
+	<string name="txt_no_keymap">No Data</string>
+	<string name="txt_keymap_left_top">Left Top Keysets</string>
+	<string name="txt_keymap_mid_top">Middle Top Keysets</string>
+	<string name="txt_keymap_right_top">Right Top Keysets</string>
+	<string name="txt_keymap_left_mid">Left Middle Keysets</string>
+	<string name="txt_keymap_right_mid">Right Middle Keysets</string>
+	<string name="txt_keymap_left_bottom">Left Bottom Keysets</string>
+	<string name="txt_keymap_mid_bottom">Middle Bottom Keysets</string>
+	<string name="txt_keymap_right_bottom">Right Bottom Keysets</string>
+	
+	<string name="title_info">Keyboard Instructions</string>
+	<string name="title_how_to_input">[ Text Input Way ]</string>
+	<string name="txt_how_to_input_1">The area inside the orange border is the input panel.</string>
+	<string name="txt_how_to_input_2">If you touch and release(click!), the keyboard is changed.(English, Hangul, Custom keyboard, ...)</string>
+	<string name="txt_how_to_input_3">If you touch and rub to one of eight directions, the first character of selected characters set is selected.</string>
+	<string name="txt_how_to_input_4">Without releasing, if you rub to opposite side, the second character of selected characters set is selected. And if you rub to opposite side again, the third is selected.</string>
+	<string name="txt_how_to_input_5">If you touch the repeat key, the last input is repeated.</string>
+	<string name="txt_how_to_input_6">In characters set, the up arrow means the shift key.</string>
+	<string name="txt_how_to_input_7">The down arrow means the enter key.</string>
+	<string name="txt_how_to_input_8">The left arrow means the backspace key.</string>
+	<string name="txt_how_to_input_9">The right arrow means the spacebar key.</string>
+	<string name="txt_how_to_input_10">You can input from recommended word list.</string>
+	
+	<string name="title_how_to_setting">[ Settings ]</string>
+	<string name="txt_how_to_setting_1">Word History Settings : It save recently entered words, and shows that words when you type.</string>
+	<string name="txt_how_to_setting_2">Change Keyboard Directions : The default is eight directions, but you can change to four directions.</string>
+	<string name="txt_how_to_setting_3">Left/Right Keyboard Set : You can make keyboard set that you want. The checked keyboard is shown.</string>
+	<string name="txt_how_to_setting_4">Custom Keyboard(Important!!) : The hidden card of NoLook Keyboard!! You can make keyboard, which has your words.</string>
+	<string name="txt_how_to_setting_4_1">Press the "Add the custom keyboard" button.</string>
+	<string name="txt_how_to_setting_4_2">Input custom keyboard title.</string>
+	<string name="txt_how_to_setting_4_3">Touch one of eight area, input your words, and press OK button.</string>
+	<string name="txt_how_to_setting_4_4">If you finish to input your words, press the save button on the right of the input panel.</string>
+	<string name="txt_how_to_setting_4_5">You can check the custom keyboard that you make on the bottom of the settings activity.</string>
+	<string name="txt_how_to_setting_4_6">Left or right checkbox means that whether to set the left or right keyboard.</string>
+	<string name="txt_how_to_setting_4_7">Now, back to the input mode, and you can choice your custom keyboard by touching the input panel. If you touch the input panel, you can show the key map.</string>
+</resources>

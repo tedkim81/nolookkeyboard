@@ -1,0 +1,145 @@
+com.teuskim.nlkeyboard.NLKeyboardView
+com.teuskim.nlkeyboard.NLKeyboardView: NLKeyboardView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: RegisterCustomKeySetView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.KeySetView
+com.teuskim.nlkeyboard.KeySetView: KeySetView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: RegisterCustomKeyboardView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.NLKeyboardView
+com.teuskim.nlkeyboard.NLKeyboardView: NLKeyboardView(android.content.Context,android.util.AttributeSet,int)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: RegisterCustomKeyboardView(android.content.Context,android.util.AttributeSet,int)
+com.teuskim.nlkeyboard.KeySetView
+com.teuskim.nlkeyboard.KeySetView: android.widget.TextView mKeyView1
+com.teuskim.nlkeyboard.KeySetView: android.widget.TextView mKeyView2
+com.teuskim.nlkeyboard.KeySetView: android.widget.TextView mKeyView3
+com.teuskim.nlkeyboard.KeySetView: android.widget.TextView mKeyView4
+com.teuskim.nlkeyboard.KeySetView: android.widget.ImageView mKeyViewIcon1
+com.teuskim.nlkeyboard.KeySetView: android.widget.ImageView mKeyViewIcon2
+com.teuskim.nlkeyboard.KeySetView: android.widget.ImageView mKeyViewIcon3
+com.teuskim.nlkeyboard.KeySetView: android.widget.ImageView mKeyViewIcon4
+com.teuskim.nlkeyboard.KeySetView: int mSize
+com.teuskim.nlkeyboard.KeySetView: KeySetView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.KeySetView: KeySetView(android.content.Context)
+com.teuskim.nlkeyboard.KeySetView: void init(android.content.Context)
+com.teuskim.nlkeyboard.KeySetView: void setKeySet(com.teuskim.nlkeyboard.NLKeyboard$KeySet)
+com.teuskim.nlkeyboard.KeySetView: void setSelected(int)
+com.teuskim.nlkeyboard.KeySetView: void resetSelected()
+com.teuskim.nlkeyboard.KeySetView: void setOneKey(com.teuskim.nlkeyboard.NLKeyboard$KeySet,java.util.List,java.util.Map,int,android.widget.TextView,android.widget.ImageView)
+com.teuskim.nlkeyboard.NLKeyboardView
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_LEFT_TOP
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_MID_TOP
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_RIGHT_TOP
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_LEFT_MID
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_RIGHT_MID
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_LEFT_BOT
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_MID_BOT
+com.teuskim.nlkeyboard.NLKeyboardView: int IDX_RIGHT_BOT
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboardView$OnKeyboardActionListener mKeyboardActionListener
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboard mKeyboard
+com.teuskim.nlkeyboard.NLKeyboardView: int mSwipeTotalCnt
+com.teuskim.nlkeyboard.NLKeyboardView: double mMoveAngle
+com.teuskim.nlkeyboard.NLKeyboardView: android.graphics.PointF mDownPoint
+com.teuskim.nlkeyboard.NLKeyboardView: android.graphics.PointF mPoint
+com.teuskim.nlkeyboard.NLKeyboardView: java.util.List mKeySetList
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboard$KeySet mKeySet
+com.teuskim.nlkeyboard.NLKeyboardView: int mDirection
+com.teuskim.nlkeyboard.NLKeyboardView: boolean mIsLeft
+com.teuskim.nlkeyboard.NLKeyboardView: int mSelectedKeyInt
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mLeftTopView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mMidTopView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mRightTopView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mLeftMidView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mRightMidView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mLeftBotView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mMidBotView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mRightBotView
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView mCurrentKeySetView
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView mKeyboardCenterX
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView mKeyboardCenterPlus
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView mKeyboardBgX
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView mKeyboardBgPlus
+com.teuskim.nlkeyboard.NLKeyboardView: int mCurrentKeyboardCenterImg
+com.teuskim.nlkeyboard.NLKeyboardView: boolean mIsCorner
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboardView mOppositeKeyboardView
+com.teuskim.nlkeyboard.NLKeyboardView: android.os.Vibrator mVibrator
+com.teuskim.nlkeyboard.NLKeyboardView: boolean sIsVibrate
+com.teuskim.nlkeyboard.NLKeyboardView: int mMyIndex
+com.teuskim.nlkeyboard.NLKeyboardView: int mOppositeIndex
+com.teuskim.nlkeyboard.NLKeyboardView: void <clinit>()
+com.teuskim.nlkeyboard.NLKeyboardView: void setIsVibrate(boolean)
+com.teuskim.nlkeyboard.NLKeyboardView: void vibrate()
+com.teuskim.nlkeyboard.NLKeyboardView: NLKeyboardView(android.content.Context,android.util.AttributeSet,int)
+com.teuskim.nlkeyboard.NLKeyboardView: NLKeyboardView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.NLKeyboardView: NLKeyboardView(android.content.Context)
+com.teuskim.nlkeyboard.NLKeyboardView: void init(android.content.Context)
+com.teuskim.nlkeyboard.NLKeyboardView: void setSize(int,int,int)
+com.teuskim.nlkeyboard.NLKeyboardView: void setKeysetSize(com.teuskim.nlkeyboard.KeySetView,int)
+com.teuskim.nlkeyboard.NLKeyboardView: void setOppositeKeyboardView(com.teuskim.nlkeyboard.NLKeyboardView)
+com.teuskim.nlkeyboard.NLKeyboardView: void setKeyboard(com.teuskim.nlkeyboard.NLKeyboard)
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboard getKeyboard()
+com.teuskim.nlkeyboard.NLKeyboardView: void setOnKeyboardActionListener(com.teuskim.nlkeyboard.NLKeyboardView$OnKeyboardActionListener)
+com.teuskim.nlkeyboard.NLKeyboardView: boolean isLeft()
+com.teuskim.nlkeyboard.NLKeyboardView: int getDirection()
+com.teuskim.nlkeyboard.NLKeyboardView: boolean isCorner()
+com.teuskim.nlkeyboard.NLKeyboardView: int getSelectedKeyInt()
+com.teuskim.nlkeyboard.NLKeyboardView: void setSelectedKeyInt(int)
+com.teuskim.nlkeyboard.NLKeyboardView: void setDirectionInfo(int,boolean)
+com.teuskim.nlkeyboard.NLKeyboardView: void showKeyboardArrowBg()
+com.teuskim.nlkeyboard.NLKeyboardView: void hideKeyboardArrowBg()
+com.teuskim.nlkeyboard.NLKeyboardView: boolean onTouchEvent(android.view.MotionEvent)
+com.teuskim.nlkeyboard.NLKeyboardView: int getPointerIndex(int)
+com.teuskim.nlkeyboard.NLKeyboardView: void actionDown(com.teuskim.nlkeyboard.NLKeyboardView,float,float)
+com.teuskim.nlkeyboard.NLKeyboardView: void actionMove(com.teuskim.nlkeyboard.NLKeyboardView,float,float)
+com.teuskim.nlkeyboard.NLKeyboardView: void actionUp(com.teuskim.nlkeyboard.NLKeyboardView,float,float)
+com.teuskim.nlkeyboard.NLKeyboardView: int getSwipeTotalCnt()
+com.teuskim.nlkeyboard.NLKeyboardView: void setSwipeTotalCnt(int)
+com.teuskim.nlkeyboard.NLKeyboardView: double getMoveAngle()
+com.teuskim.nlkeyboard.NLKeyboardView: void setMoveAngle(double)
+com.teuskim.nlkeyboard.NLKeyboardView: android.graphics.PointF getDownPoint()
+com.teuskim.nlkeyboard.NLKeyboardView: void setDownPoint(float,float)
+com.teuskim.nlkeyboard.NLKeyboardView: android.graphics.PointF getPoint()
+com.teuskim.nlkeyboard.NLKeyboardView: void setPoint(float,float)
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboardView$OnKeyboardActionListener getKeyboardActionListener()
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboard$KeySet getKeySet()
+com.teuskim.nlkeyboard.NLKeyboardView: void setKeySet(com.teuskim.nlkeyboard.NLKeyboard$KeySet)
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.KeySetView getCurrentKeySetView()
+com.teuskim.nlkeyboard.NLKeyboardView: void setCurrentKeySetView(com.teuskim.nlkeyboard.KeySetView)
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView getKeyboardCenterX()
+com.teuskim.nlkeyboard.NLKeyboardView: android.widget.ImageView getKeyboardCenterPlus()
+com.teuskim.nlkeyboard.NLKeyboardView: int getCurrentKeyboardCenterImg()
+com.teuskim.nlkeyboard.NLKeyboardView: int getSwipeCnt()
+com.teuskim.nlkeyboard.NLKeyboardView: com.teuskim.nlkeyboard.NLKeyboard$KeySet getKeySetByDegree(double)
+com.teuskim.nlkeyboard.NLKeyboardView: int getDegreeNumber(double)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mLeftTopView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mMidTopView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mRightTopView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mLeftMidView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mRightMidView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mLeftBotView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mMidBotView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView mRightBotView
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: RegisterCustomKeyboardView(android.content.Context,android.util.AttributeSet,int)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: RegisterCustomKeyboardView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: RegisterCustomKeyboardView(android.content.Context)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: void init(android.content.Context)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: void setOnClickListener(android.view.View$OnClickListener)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: void fillKeys(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+com.teuskim.nlkeyboard.RegisterCustomKeyboardView: com.teuskim.nlkeyboard.RegisterCustomKeySetView getViewById(int)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: android.widget.TextView mKeyView1
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: android.widget.TextView mKeyView2
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: android.widget.TextView mKeyView3
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: android.widget.TextView mKeyView4
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: RegisterCustomKeySetView(android.content.Context,android.util.AttributeSet)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: RegisterCustomKeySetView(android.content.Context)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: void init(android.content.Context)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: void fillKeys(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+com.teuskim.nlkeyboard.RegisterCustomKeySetView: void fillKey(android.widget.TextView,java.lang.String)
+com.teuskim.nlkeyboard.RegisterCustomActivity
+com.teuskim.nlkeyboard.MainActivity
+com.teuskim.nlkeyboard.GuideActivity
+com.teuskim.nlkeyboard.SettingActivity
+com.teuskim.nlkeyboard.NLKeyboardService

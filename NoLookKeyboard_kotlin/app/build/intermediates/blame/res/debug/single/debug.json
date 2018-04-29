@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_keyboard_numbers.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/keyboard_numbers.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_right_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_right_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom_item.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_mid_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_mid_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout-land_input.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout-land/input.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_right_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_right_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_setting.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/setting.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_x.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_x.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom_divider.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom_divider.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_right_mid.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_right_mid.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_mid_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_mid_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_keyset_dialog.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_keyset_dialog.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom_keyboard.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom_keyboard.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_custom_keymap.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/custom_keymap.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_key_enter.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/key_enter.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_btn_white_pressed.9.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_btn_white_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_keyboard.9.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_keyboard.9.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_selected_key.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_selected_key.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_setting_keyset_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/setting_keyset_item.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_word_history.9.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_word_history.9.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_btn_white_normal.9.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_btn_white_normal.9.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom_keyset.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom_keyset.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable_bg_btn_white.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable/bg_btn_white.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_img_guide.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/img_guide.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_left_mid.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_left_mid.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_custom_keymap_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/custom_keymap_item.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_left_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_left_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_keyboard_hangul.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/keyboard_hangul.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_plus.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_plus.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_keyset_selected.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_keyset_selected.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_keyboard.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/keyboard.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_right_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_right_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_right_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_right_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_setting_custom_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/setting_custom_item.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_left_mid.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_left_mid.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_keymap.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_keymap.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_keyboard_symbols.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/keyboard_symbols.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_key_space.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/key_space.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_guide.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/guide.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_method.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_history_list_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/history_list_item.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_mid_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_mid_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_input.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_keyboard_english.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/keyboard_english.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_key_shift.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/key_shift.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_titlebar.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_titlebar.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_right_mid.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_right_mid.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_left_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_left_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_left_top.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_left_top.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_keymap_mid_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/icon_keymap_mid_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_center_left_bottom.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/keyboard_center_left_bottom.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_guide_content.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/guide_content.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_keyset.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/keyset.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_key_backspace.png.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/key_backspace.png"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/xml_keyboard_hangul_shift.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/xml/keyboard_hangul_shift.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_keyset.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/drawable-hdpi/bg_keyset.xml"
+    },
+    {
+        "merged": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/build/intermediates/res/merged/debug/layout_register_custom_title_item.xml.flat",
+        "source": "/Users/ted/develop/android-src/NoLookKeyboard/NoLookKeyboard_kotlin/app/src/main/res/layout/register_custom_title_item.xml"
+    }
+]
